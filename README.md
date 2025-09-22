@@ -1,5 +1,5 @@
 # Elevate-labs-Task-1
-Perfect ✅ Here’s a **short, professional summary** you can directly use in your **GitHub README.md** for the Netflix dataset cleaning project:
+
 
 ---
 
