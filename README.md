@@ -12,7 +12,7 @@ This project cleans and prepares the **Netflix Titles dataset** for analysis usi
 ## 📌 Cleaning Steps
 
 1. **Load Dataset**
-
+   * From kaggle download the dataset Netflix movies and TV Shows.
    * Import `netflix_titles.csv` into Python (pandas) or WPS Excel.
 
 2. **Handle Missing Values**
